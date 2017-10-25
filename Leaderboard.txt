@@ -1,0 +1,4 @@
+GamePlayer Name: Ruth PlayerMoney: 475 Number of Hands: 1
+GamePlayer Name: Scott PlayerMoney: 475 Number of Hands: 1
+Gameplayer Name: Ruth Nuttall Playermoney: 410 Number of Hands: 2
+Gameplayer Name: Eryk Playermoney: 430 Number of Hands: 2
